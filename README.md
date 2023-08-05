@@ -1,7 +1,7 @@
 # Guitar Classifier App
 
 ## Introduction
-Utilizing pre-trained models like ResNet and ConvNets, this app accurately identifies various types of guitars from images with a 1.5% error rate. Deployed using [Gradio](https://huggingface.co/spaces/theoberva/), it offers an intuitive user interface that requires no installation.<br><br>
+Utilizing pre-trained models like ResNet and ConvNets, this app accurately identifies various types of guitars from images with a 1.5% error rate. Deployed using [Gradio](https://huggingface.co/spaces/theoberva/guitar_classifier), it offers an intuitive user interface that requires no installation.<br><br>
 
 ![alt text](https://github.com/theoberva/guitar_classifier/blob/main/gradio_app.png?raw=true)
 
